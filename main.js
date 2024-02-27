@@ -1,0 +1,6 @@
+let name = prompt("Ismingizni kiriting = ")
+let surname =  prompt("Familiyangizni kiriting = ")
+let age = prompt("Yoshingizni kiriting = ")
+let subject = prompt("Yoqtirgan faningizni yozing = ")
+let live = prompt("Yashaydigan tumanigizni kiriting = ")
+alert("Ma'lumotlaringizni kiritganingiz uchun tashakkur")
